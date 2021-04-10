@@ -3,7 +3,7 @@
     'name': "Planning Custom Report",
 
     'summary': """
-        Módulo que nos permite modificar el reporte de partes de hora con planificació.
+        Módulo que nos permite modificar el reporte de partes de hora con planificación.
     """,
 
     'description': """
@@ -17,7 +17,7 @@
 
     'category': 'Project',
 
-    'version': '14.1.2',
+    'version': '14.0.2',
 
     'depends': ['base','project','planning','timesheet_grid','project_forecast','project_timesheet_forecast'],
 
