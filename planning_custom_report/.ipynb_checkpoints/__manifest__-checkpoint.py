@@ -17,7 +17,7 @@
 
     'category': 'Project',
 
-    'version': '14.0.1',
+    'version': '14.0.2',
 
     'depends': ['base','project','planning','timesheet_grid','project_forecast','project_timesheet_forecast'],
 
