@@ -8,7 +8,7 @@
 
     'description': """
         Módulo que nos permite modificar el reporte de partes de hora con planificación dentro del módulo de
-        proyecto agregando campos que facilitan la toma de decisiones.
+        proyecto agregando campos que facilitan la toma de decisioneeees.
     """,
 
     'author': "Soporte Grupo Ley",
